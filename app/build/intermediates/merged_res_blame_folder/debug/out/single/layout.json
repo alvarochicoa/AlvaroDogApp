@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "A:\\proyectos\\PRUEBAAPP\\DogListApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_breed.xml",
+        "source": "A:\\proyectos\\PRUEBAAPP\\DogListApp\\app\\src\\main\\res\\layout\\item_breed.xml"
+    },
+    {
+        "merged": "A:\\proyectos\\PRUEBAAPP\\DogListApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "A:\\proyectos\\PRUEBAAPP\\DogListApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "A:\\proyectos\\PRUEBAAPP\\DogListApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dog_activity.xml",
+        "source": "A:\\proyectos\\PRUEBAAPP\\DogListApp\\app\\src\\main\\res\\layout\\dog_activity.xml"
+    },
+    {
+        "merged": "A:\\proyectos\\PRUEBAAPP\\DogListApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_dog.xml",
+        "source": "A:\\proyectos\\PRUEBAAPP\\DogListApp\\app\\src\\main\\res\\layout\\item_dog.xml"
+    }
+]

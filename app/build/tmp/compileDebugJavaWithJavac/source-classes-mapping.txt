@@ -1,0 +1,10 @@
+com/dogapp/doglistapp/databinding/ActivityMainBinding.java
+ com.dogapp.doglistapp.databinding.ActivityMainBinding
+com/dogapp/doglistapp/databinding/ItemBreedBinding.java
+ com.dogapp.doglistapp.databinding.ItemBreedBinding
+com/dogapp/doglistapp/databinding/ItemDogBinding.java
+ com.dogapp.doglistapp.databinding.ItemDogBinding
+com/dogapp/doglistapp/BuildConfig.java
+ com.dogapp.doglistapp.BuildConfig
+com/dogapp/doglistapp/databinding/DogActivityBinding.java
+ com.dogapp.doglistapp.databinding.DogActivityBinding
