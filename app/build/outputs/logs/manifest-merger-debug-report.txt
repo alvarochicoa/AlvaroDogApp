@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\64a11fdc278561de5d78e5bcbe5e658a\jetified-viewbinding-4.1.3\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\dd450999685db3c13dba7b0734f1de75\jetified-activity-ktx-1.2.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\e3177726b0fd4286bb6395dd23e665fe\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
@@ -51,29 +51,29 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Alvaro\.gradle\c
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\7e137eeb45a71a6dc4c4288c51dfa86f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\3fa017593e49f4b71cca3dea4b315356\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\94599ed2a8cc3f7c8f3726ceb6653166\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
-		INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
+		INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
+		INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
+		INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:7:5-22:19
+ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:7:5-22:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\42bf532a49f535b685f3d792dd0863a3\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\42bf532a49f535b685f3d792dd0863a3\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\a23fc5979b453bb5d9de952a2a79084d\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -91,39 +91,39 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Al
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\9c612ea3cf04cd1784652341bdae6b78\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:13:9-48
-activity#com.dogapp.doglistapp.view.MainActivity
-ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:14:9-20:20
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:13:9-48
+activity#com.dogapp.doglistapp.ui.view.MainActivity
+ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:14:19-73
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:14:19-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:18:27-74
-activity#com.dogapp.doglistapp.view.DogActivity
-ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:21:9-84
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.dogapp.doglistapp.ui.view.DogActivity
+ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:21:9-87
 	android:name
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml:21:19-72
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml:21:19-75
 uses-sdk
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\64a11fdc278561de5d78e5bcbe5e658a\jetified-viewbinding-4.1.3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\64a11fdc278561de5d78e5bcbe5e658a\jetified-viewbinding-4.1.3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\dd450999685db3c13dba7b0734f1de75\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
@@ -218,13 +218,13 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Alvaro\.gradle\caches\transfor
 MERGED from [androidx.print:print:1.0.0] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\3fa017593e49f4b71cca3dea4b315356\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\94599ed2a8cc3f7c8f3726ceb6653166\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Alvaro\.gradle\caches\transforms-2\files-2.1\94599ed2a8cc3f7c8f3726ceb6653166\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
-INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
+INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
-		INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
+		INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
+		INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
-		ADDED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
-		INJECTED from A:\proyectos\PRUEBAAPP\DogListApp\app\src\main\AndroidManifest.xml
+		INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
+		ADDED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml
+		INJECTED from A:\proyectos\PRUEBAAPP\AlvaroDogApp\app\src\main\AndroidManifest.xml

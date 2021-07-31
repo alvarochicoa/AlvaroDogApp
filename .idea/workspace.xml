@@ -9,7 +9,33 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05c35a6b-9f58-4702-bb58-158ec66dd734" name="Default Changelist" comment="" />
+    <list default="true" id="05c35a6b-9f58-4702-bb58-158ec66dd734" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/DogListApp.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/DogListApp.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/dogapp/doglistapp/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/dogapp/doglistapp/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/APIDogService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/BreedAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/DogAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/DogResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/data/network/APIDogService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/data/network/DogApiClient.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/data/network/DogApiClient.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/data/provider/BreedProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/data/provider/DogProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/model/BreedModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/model/BreedProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/model/DogModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/model/DogProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/ui/view/DogActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/ui/view/DogActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/ui/viewmodel/BreedViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/ui/viewmodel/BreedViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/ui/viewmodel/DogViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/ui/viewmodel/DogViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/view/DogActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/view/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/viewmodel/BreedViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dogapp/doglistapp/viewmodel/DogViewModel.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +56,9 @@
         <option value="Kotlin Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1w0jI6VMNgsVI8u04wWRCJs7a2k" />
   <component name="ProjectViewState">
@@ -131,6 +160,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1057" y="44" key="#app" timestamp="1627705455938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1057" y="44" key="#app/0.0.1920.1040@0.0.1920.1040" timestamp="1627705455938" />
     <state x="1058" y="36" key="#com.intellij.ide.util.MemberChooser" timestamp="1627625634326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -155,22 +188,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="488" y="432" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627625922073" />
-    <state width="1876" height="392" key="GridCell.Tab.0.bottom" timestamp="1627699136420">
+    <state width="1876" height="392" key="GridCell.Tab.0.bottom" timestamp="1627705856957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="392" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627699136420" />
-    <state width="1876" height="392" key="GridCell.Tab.0.center" timestamp="1627699136420">
+    <state width="1876" height="392" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627705856957" />
+    <state width="1876" height="392" key="GridCell.Tab.0.center" timestamp="1627705856957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="392" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627699136420" />
-    <state width="1876" height="392" key="GridCell.Tab.0.left" timestamp="1627699136419">
+    <state width="1876" height="392" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627705856957" />
+    <state width="1876" height="392" key="GridCell.Tab.0.left" timestamp="1627705856956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="392" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627699136419" />
-    <state width="1876" height="392" key="GridCell.Tab.0.right" timestamp="1627699136420">
+    <state width="1876" height="392" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627705856956" />
+    <state width="1876" height="392" key="GridCell.Tab.0.right" timestamp="1627705856957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="392" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627699136420" />
+    <state width="1876" height="392" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627705856957" />
     <state x="691" y="395" key="ScreenshotRecorder.Options.Dimensions" timestamp="1627688288249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

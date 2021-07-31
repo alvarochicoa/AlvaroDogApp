@@ -21,14 +21,14 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.DogListApp" >
-        <activity android:name="com.dogapp.doglistapp.view.MainActivity" >
+        <activity android:name="com.dogapp.doglistapp.ui.view.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.dogapp.doglistapp.view.DogActivity" />
+        <activity android:name="com.dogapp.doglistapp.ui.view.DogActivity" />
     </application>
 
 </manifest>

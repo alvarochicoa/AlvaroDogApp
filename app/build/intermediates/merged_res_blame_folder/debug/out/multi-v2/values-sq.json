@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "A:\\proyectos\\PRUEBAAPP\\DogListApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
+            "outputFile": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Alvaro\\.gradle\\caches\\transforms-2\\files-2.1\\42bf532a49f535b685f3d792dd0863a3\\material-1.4.0\\res\\values-sq\\values-sq.xml",
