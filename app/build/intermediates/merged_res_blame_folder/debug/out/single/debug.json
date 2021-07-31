@@ -8,12 +8,12 @@
         "source": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -22,6 +22,10 @@
     {
         "merged": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_back.xml.flat",
+        "source": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\src\\main\\res\\drawable\\arrow_back.xml"
     },
     {
         "merged": "A:\\proyectos\\PRUEBAAPP\\AlvaroDogApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",

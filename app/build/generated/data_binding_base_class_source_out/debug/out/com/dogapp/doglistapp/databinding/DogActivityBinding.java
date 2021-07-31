@@ -4,13 +4,16 @@ package com.dogapp.doglistapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.widget.AppCompatImageView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import com.dogapp.doglistapp.R;
+import com.google.android.material.textview.MaterialTextView;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -20,16 +23,30 @@ public final class DogActivityBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final AppCompatImageView ivArrowBack;
+
+  @NonNull
+  public final ProgressBar progress;
+
+  @NonNull
   public final RelativeLayout rlNav;
 
   @NonNull
   public final RecyclerView rvDogs;
 
-  private DogActivityBinding(@NonNull ConstraintLayout rootView, @NonNull RelativeLayout rlNav,
-      @NonNull RecyclerView rvDogs) {
+  @NonNull
+  public final MaterialTextView tvBackText;
+
+  private DogActivityBinding(@NonNull ConstraintLayout rootView,
+      @NonNull AppCompatImageView ivArrowBack, @NonNull ProgressBar progress,
+      @NonNull RelativeLayout rlNav, @NonNull RecyclerView rvDogs,
+      @NonNull MaterialTextView tvBackText) {
     this.rootView = rootView;
+    this.ivArrowBack = ivArrowBack;
+    this.progress = progress;
     this.rlNav = rlNav;
     this.rvDogs = rvDogs;
+    this.tvBackText = tvBackText;
   }
 
   @Override
@@ -59,6 +76,18 @@ public final class DogActivityBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.ivArrowBack;
+      AppCompatImageView ivArrowBack = rootView.findViewById(id);
+      if (ivArrowBack == null) {
+        break missingId;
+      }
+
+      id = R.id.progress;
+      ProgressBar progress = rootView.findViewById(id);
+      if (progress == null) {
+        break missingId;
+      }
+
       id = R.id.rlNav;
       RelativeLayout rlNav = rootView.findViewById(id);
       if (rlNav == null) {
@@ -71,7 +100,14 @@ public final class DogActivityBinding implements ViewBinding {
         break missingId;
       }
 
-      return new DogActivityBinding((ConstraintLayout) rootView, rlNav, rvDogs);
+      id = R.id.tvBackText;
+      MaterialTextView tvBackText = rootView.findViewById(id);
+      if (tvBackText == null) {
+        break missingId;
+      }
+
+      return new DogActivityBinding((ConstraintLayout) rootView, ivArrowBack, progress, rlNav,
+          rvDogs, tvBackText);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

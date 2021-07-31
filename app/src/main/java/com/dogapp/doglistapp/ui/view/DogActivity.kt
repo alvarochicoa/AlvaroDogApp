@@ -3,6 +3,7 @@ package com.dogapp.doglistapp.ui.view
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.isVisible
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.dogapp.doglistapp.data.network.DogApiClient
@@ -33,6 +34,16 @@ class DogActivity : AppCompatActivity(){
         dogViewModel.dogModel.observe(this, Observer {
             binding.rvDogs.adapter = DogAdapter(it)
         })
+        dogViewModel.isLoading.observe(this, Observer {
+            binding.progress.isVisible = it
+        })
+
+        binding.ivArrowBack.setOnClickListener(){
+           finish()
+        }
+        binding.tvBackText.setOnClickListener(){
+            finish()
+        }
     }
 
     private fun initRecyclerView() {
